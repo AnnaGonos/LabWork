@@ -1,5 +1,5 @@
 
-# Лабораторная работа 6
+# Лабораторная работа 
 
 OneMoreFunnyLanguage format
 
